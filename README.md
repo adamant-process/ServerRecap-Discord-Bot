@@ -1,4 +1,4 @@
-# ServerRecap
+# ServerRecap Discord Bot
 
 A simple bot that summarizes server activity.
 
