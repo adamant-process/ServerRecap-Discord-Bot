@@ -12,6 +12,6 @@ A simple bot that summarizes server activity.
 
 ## 📄 Terms of Service & Privacy Policy
 
-[Terms of Service]()
+[Terms of Service](https://github.com/adamant-process/ServerRecap/blob/main/terms.html)
 
-[Privacy Policy]()
+[Privacy Policy](https://github.com/adamant-process/ServerRecap/blob/main/privacy.html)
