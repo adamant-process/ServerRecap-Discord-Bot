@@ -1,2 +1,16 @@
 # ServerRecap
+
 A simple bot that summarizes server activity.
+
+---
+
+## 🔗 Invite Link
+
+[Link](https://discord.com/oauth2/authorize?client_id=1403226500630843402&permissions=2147552256&integration_type=0&scope=bot+applications.commands)
+
+---
+
+## 📄 Terms of Service & Privacy Policy
+
+[Terms of Service]()
+[Privacy Policy]()
