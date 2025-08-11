@@ -13,4 +13,5 @@ A simple bot that summarizes server activity.
 ## 📄 Terms of Service & Privacy Policy
 
 [Terms of Service]()
+
 [Privacy Policy]()
