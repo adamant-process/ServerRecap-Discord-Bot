@@ -10,6 +10,13 @@ A simple bot that summarizes server activity.
 
 ---
 
+## ⚙️ How to Use
+
+1. Click the link in the `Invite Link` section to invite the bot.
+2. Go to the server the bot was invited to and type `/recap` to get a server recap for a specific time window.
+
+---
+
 ## 📄 Help
 
 Join our community at Prazadenta Creations: [Link](https://discord.gg/pV5NqjXtgE)
