@@ -25,6 +25,6 @@ Join our community at Prazadenta Creations: [Link](https://discord.gg/pV5NqjXtgE
 
 ## 📃 Terms of Service & Privacy Policy
 
-[Terms of Service](https://github.com/adamant-process/Prazadenta-Creations-TOS-PP/blob/main/terms.txt)
+[Terms of Service](https://sites.google.com/view/prazadenta/terms-of-service)
 
-[Privacy Policy](https://github.com/adamant-process/Prazadenta-Creations-TOS-PP/blob/main/privacy.txt)
+[Privacy Policy](https://sites.google.com/view/prazadenta/privacy-policy)
